@@ -1,5 +1,5 @@
 let classifier;
-let imageModelURL = 'https://teachablemachine.withgoogle.com/models/uRsJV1HP1/'; // URL del modelo de Teachable Machine
+let imageModelURL = 'Mi_Modelo'; // URL del modelo de Teachable Machine
 let video, flippedVideo;
 let fileInput;
 let label = "";
